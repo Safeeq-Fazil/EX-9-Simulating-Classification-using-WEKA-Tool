@@ -32,6 +32,8 @@ Classification in data mining is a common technique that separates data points i
    ![image](https://github.com/dineshgl/EX-9-Simulating-Classification-using-WEKA-Tool/assets/143793356/a846aee3-1e84-4101-932e-83029762593b)
 8. Select Visualize tree to get a visual representation of the traversal tree as seen in the screenshot below −<br>
    ![image](https://github.com/dineshgl/EX-9-Simulating-Classification-using-WEKA-Tool/assets/143793356/a2aab1c7-a756-4de7-a1e5-1d6a5fa53321)
+
+
 9. Selecting Visualize classifier errors would plot the results of classification as shown here −<br>
     ![image](https://github.com/dineshgl/EX-9-Simulating-Classification-using-WEKA-Tool/assets/143793356/9d39bad9-a77c-4c72-a9bb-0031154ef0c4)
 10. A cross represents a correctly classified instance while squares represents incorrectly classified instances. At the lower left corner of the plot you see a cross that indicates if outlook is sunny then play the game. So this is a correctly classified instance.<br>

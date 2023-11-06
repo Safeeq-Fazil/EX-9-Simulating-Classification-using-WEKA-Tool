@@ -28,8 +28,10 @@ Classification in data mining is a common technique that separates data points i
    ![image](https://github.com/dineshgl/EX-9-Simulating-Classification-using-WEKA-Tool/assets/143793356/bdbf5e47-9233-4fdc-a0b6-b22bf4c7aadc)
 6. Click on the Start button to start the classification process. After a while, the classification results would be presented on your screen as shown here −<br>
    ![image](https://github.com/dineshgl/EX-9-Simulating-Classification-using-WEKA-Tool/assets/143793356/7341a7e0-cb7c-4fd9-abd7-36cf9d484ae6)
+
 7. To see the visual representation of the results, right click on the result in the Result list box. Several options would pop up on the screen as shown here −<br>
    ![image](https://github.com/dineshgl/EX-9-Simulating-Classification-using-WEKA-Tool/assets/143793356/a846aee3-1e84-4101-932e-83029762593b)
+
 8. Select Visualize tree to get a visual representation of the traversal tree as seen in the screenshot below −<br>
    ![image](https://github.com/dineshgl/EX-9-Simulating-Classification-using-WEKA-Tool/assets/143793356/a2aab1c7-a756-4de7-a1e5-1d6a5fa53321)
 
